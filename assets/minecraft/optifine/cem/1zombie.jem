@@ -1,0 +1,16 @@
+{
+  "texture": "optifine/cem/zombie3.png",
+  "textureSize": [32, 32],
+  "models": 
+  [
+    {
+      "id": "head",
+      "model": "Zombie_head.jpm",
+      "part": "head", 
+      "scale": 1.0,
+      "attach": false,
+      "translate": [8, 0, -7],
+      "rotate": [0, 0, 180]
+    }
+  ]
+}
